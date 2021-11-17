@@ -33,7 +33,7 @@
 
 **Today's Progress**: Revised Ruby oops and mixins, learned file I/O, learned about serialization in ruby, also did the banking with ruby project on codeacademy. 
 
-**Thoughts**: It's been a while since I last learned ruby, so i decided to start by first revising my oops concepts. Then I finished the banking with ruby project on codeacademy which really brought the concepts back into memory. Then I learned about file io in ruby using the IO class and not the built in file handling class. This helped me understand what's going on behind the scenes in the file class. Then I learned about the concept of serialization and how it is implemented in ruby. I also learned about different serialization formats like YAML and JSON.
+**Thoughts**: It's been a while since I last learned ruby, so i decided to start by first revising my oop concepts. Then I finished the banking with ruby project on codeacademy which really brought the concepts back into memory. Then I learned about file io in ruby using the IO class and not the built in file handling class. This helped me understand what's going on behind the scenes in the file class. Then I learned about the concept of serialization and how it is implemented in ruby. I also learned about different serialization formats like YAML and JSON.
 
 **Link(s) to work**
 1. The project on codeacademy -> https://www.codecademy.com/courses/learn-ruby/lessons/banking-on-ruby/exercises/well-done (Edit: link is useless can't see progress without logging in, F).
